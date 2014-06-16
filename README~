@@ -1,4 +1,0 @@
-This is the source file for a delay realistic transaction layer model of a PCIe RC. 
-In order to compile it, a SystemC library needs to be compiled with the pthreads flag
-and linked to in the makefile
-. 
